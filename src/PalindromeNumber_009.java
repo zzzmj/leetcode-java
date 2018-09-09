@@ -3,9 +3,9 @@
  * @Description 判断一个数是不是回文数
  * @create 2018/9/9
  */
-public class PalindromeNumber {
+public class PalindromeNumber_009 {
   /**
-   * 将整数转为字符串的做法
+   * 将整数转为字符串的做法。
    */
   public boolean isPalindrome(int x) {
     String num = String.valueOf(x);
