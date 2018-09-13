@@ -29,10 +29,4 @@ public class ValidParentheses_020 {
     
     return stack.empty();
   }
-
-  public static void main(String[] args) {
-    String string = "";
-    ValidParentheses_020 va = new ValidParentheses_020();
-    System.out.println(va.isVaild(string));
-  }
 }
