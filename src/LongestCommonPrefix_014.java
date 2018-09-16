@@ -2,6 +2,12 @@
  * @author zmj
  * @Description 编写一个函数来查找字符串数组中的最长公共前缀。
  * @create 2018/9/13
+ * 
+ * 学习了两个方法
+ * int indexOf(); 返回指定字符串或者字符在此字符串中第一次出现的索引，未出现返回-1
+ * 
+ * String substring(int begin, int end); 返回一个新的字符串，它是此字符串的子字符串，
+ * 从begin开始到end结束
  */
 public class LongestCommonPrefix_014 {
   // 这是一个更好的方法，将第一个字符串当成模板，与其他字符串数组逐个比对，有不同则裁去
