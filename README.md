@@ -17,5 +17,8 @@
 | 026  | RemoveDuplicatesFromSortedArray |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveDuplicatesFromSortedArray_026.java) |
 | 027  | [RemoveElement](https://leetcode-cn.com/problems/remove-element/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveElement_027.java) |
 | 028  | [implement-strstr](https://leetcode-cn.com/problems/implement-strstr/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/ImplementStrStr_028.java) |
+| 035  | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/SearchInsertPosition_035.java) |
+| 038  | [Count and Say](https://leetcode-cn.com/problems/count-and-say/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/CountAndSay_038.java) |
+| 053  | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/CountAndSay_038.java) |
 
 
