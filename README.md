@@ -15,4 +15,7 @@
 | 020  |        ValidParentheses         |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/ValidParentheses_020.java) |
 | 021  |       MergeTwoSortedLists       |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/MergeTwoSortedLists_021.java) |
 | 026  | RemoveDuplicatesFromSortedArray |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveDuplicatesFromSortedArray_026.java) |
+| 027  | [RemoveElement](https://leetcode-cn.com/problems/remove-element/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveElement_027.java) |
+| 028  | [implement-strstr](https://leetcode-cn.com/problems/implement-strstr/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/ImplementStrStr_028.java) |
+
 
