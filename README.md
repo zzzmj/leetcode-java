@@ -20,5 +20,7 @@
 | 035  | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/SearchInsertPosition_035.java) |
 | 038  | [Count and Say](https://leetcode-cn.com/problems/count-and-say/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/CountAndSay_038.java) |
 | 053  | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/MaximumSubarray_053.java) |
+| 058  | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/LengthOfLastWord_058.java) |
+| 066  | [Plus One](https://leetcode-cn.com/problems/plus-one/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/PlusOne_066.java) |
 
 
