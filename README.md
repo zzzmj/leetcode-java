@@ -24,5 +24,6 @@
 | 058  | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/LengthOfLastWord_058.java) |
 | 066  | [Plus One](https://leetcode-cn.com/problems/plus-one/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/PlusOne_066.java) |
 | 067  | [Add Binary](https://leetcode-cn.com/problems/add-binary/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/AddBinary_067.java) |
+| 069  | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/Sqrtx_069.java) |
 
 
