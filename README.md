@@ -5,6 +5,7 @@
 ## 介绍
 
 这里存储着我在刷leetcode中，所有题目的题解，每个题目我都尽量做到用比较合适的解法，也参考了其他人的题解
+大多题目的解题思路在代码中都有注释
 
 |  Id  |              Title              | Difficulty |                             Java                             |
 | :--: | :-----------------------------: | :--------: | :----------------------------------------------------------: |
@@ -22,5 +23,6 @@
 | 053  | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/MaximumSubarray_053.java) |
 | 058  | [Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/LengthOfLastWord_058.java) |
 | 066  | [Plus One](https://leetcode-cn.com/problems/plus-one/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/PlusOne_066.java) |
+| 067  | [Add Binary](https://leetcode-cn.com/problems/add-binary/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/AddBinary_067.java) |
 
 
