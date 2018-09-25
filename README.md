@@ -25,5 +25,7 @@
 | 066  | [Plus One](https://leetcode-cn.com/problems/plus-one/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/PlusOne_066.java) |
 | 067  | [Add Binary](https://leetcode-cn.com/problems/add-binary/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/AddBinary_067.java) |
 | 069  | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/Sqrtx_069.java) |
+| 070  | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/ClimbingStairs_070.java) |
+| 083  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveDuplicateFromSortedList_083.java) |
 
 

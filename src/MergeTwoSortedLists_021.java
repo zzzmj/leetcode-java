@@ -6,13 +6,6 @@ import java.util.Arrays;
  * @Description 合并两个链表，要熟悉链表的结构和操作
  * @create 2018/9/13
  */
-class ListNode {
-  int val;
-  ListNode next;
-  ListNode(int x) {
-    val = x; 
-  }
-}
 
 public class MergeTwoSortedLists_021 {
   public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
