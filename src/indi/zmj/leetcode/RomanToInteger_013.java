@@ -1,5 +1,6 @@
+package indi.zmj.leetcode;
+
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @author zmj

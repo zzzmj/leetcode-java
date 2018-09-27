@@ -1,3 +1,5 @@
+package indi.zmj.leetcode;
+
 /**
  * @author zmj
  * @Description 移除数组中指定的元素

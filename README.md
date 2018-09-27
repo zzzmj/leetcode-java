@@ -27,5 +27,7 @@
 | 069  | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/Sqrtx_069.java) |
 | 070  | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/ClimbingStairs_070.java) |
 | 083  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/RemoveDuplicateFromSortedList_083.java) |
+| 088  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/merge-sorted-array/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/MergeSortedArray_088.java) |
+| 100  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/same-tree/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/SameTree_100.java) |
 
 

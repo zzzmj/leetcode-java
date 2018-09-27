@@ -1,3 +1,5 @@
+package indi.zmj.leetcode;
+
 /**
  * @author zmj
  * @Description 实现strStr()函数，给定两个字符串，在第一个字符串中找第二个字符串出现的位置

@@ -1,3 +1,5 @@
+package indi.zmj.leetcode;
+
 /**
  * @author zmj
  * @Description 合并两个有序数组

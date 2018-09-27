@@ -1,3 +1,5 @@
+package indi.zmj.leetcode;
+
 /**
  * @author zmj
  * @Description 判断一个数是不是回文数

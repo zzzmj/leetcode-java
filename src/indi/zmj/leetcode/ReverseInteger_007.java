@@ -1,3 +1,4 @@
+package indi.zmj.leetcode;
 
 /**
  * @author 1

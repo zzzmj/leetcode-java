@@ -1,3 +1,5 @@
+package indi.zmj.leetcode;
+
 /**
  * @author zmj
  * @Description 二进制数相加，返回他们的和（二进制表示）
