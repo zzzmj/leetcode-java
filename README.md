@@ -27,7 +27,9 @@
 | 069  | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/Sqrtx_069.java) |
 | 070  | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/ClimbingStairs_070.java) |
 | 083  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/RemoveDuplicateFromSortedList_083.java) |
-| 088  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/merge-sorted-array/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/MergeSortedArray_088.java) |
-| 100  | [Remove Duplicates from Sorted List](https://leetcode-cn.com/problems/same-tree/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/SameTree_100.java) |
+| 088  | [Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/MergeSortedArray_088.java) |
+| 100  | [Same Tree](https://leetcode-cn.com/problems/same-tree/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/SameTree_100.java) |
+| 101  | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/SymmetricTree_101.java) |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/) |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/MaximumDepthOfBinaryTree_104.java) |
 
 
