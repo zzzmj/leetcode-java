@@ -10,6 +10,7 @@
 |  编号  |              题目              | 难度 |                             语言                             | 标签 |
 | :--: | :-----------------------------: | :--------: | :----------------------------------------------------------: | :--: |
 | 002  | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)   |    Medium    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/AddTwoNumbers_002.java) | 链表 |
+| 003  | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)   |    Medium    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/LongestSubstringWithoutRepeatingCharacters_003.java) | 双指针 |
 | 007  |       ReverseInteger        |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/ReverseInteger_007.java) | 数学 |
 | 009  |      PalindromeNumber       |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/PalindromeNumber_009.java) | 数学 |
 | 013  |         RomanToInteger          |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/RomanToInteger_013.java) | Map，字符串 |
