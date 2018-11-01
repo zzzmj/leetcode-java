@@ -11,6 +11,7 @@
 | :--: | :-----------------------------: | :--------: | :----------------------------------------------------------: | :--: |
 | 002  | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/)   |    Medium    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/AddTwoNumbers_002.java) | 链表 |
 | 003  | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)   |    Medium    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/LongestSubstringWithoutRepeatingCharacters_003.java) | 双指针 |
+| 006  | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/)   |    Medium    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/ZigZagConversion_006.java) | 字符串 |
 | 007  |       ReverseInteger        |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/ReverseInteger_007.java) | 数学 |
 | 009  |      PalindromeNumber       |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/PalindromeNumber_009.java) | 数学 |
 | 013  |         RomanToInteger          |    Easy    | [Java](https://github.com/ZhuMoJian/leetcode_java/blob/master/src/indi/zmj/leetcode/RomanToInteger_013.java) | Map，字符串 |
