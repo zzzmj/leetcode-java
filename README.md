@@ -13,6 +13,7 @@
 | 003  | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/)   |    Medium    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/LongestSubstringWithoutRepeatingCharacters_003.java) | 双指针 |
 | 006  | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/)   |    Medium    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/ZigZagConversion_006.java) | 字符串 |
 | 007  |       ReverseInteger        |    Easy    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/ReverseInteger_007.java) | 数学 |
+| 006  | [String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)   |    Medium    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/StringToInteger_008.java) | 字符串 |
 | 009  |      PalindromeNumber       |    Easy    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/PalindromeNumber_009.java) | 数学 |
 | 013  |         RomanToInteger          |    Easy    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/RomanToInteger_013.java) | Map，字符串 |
 | 014  |       LongestCommonPrefix       |    Easy    | [Java](https://github.com/zzzmj/leetcode_java/blob/master/src/indi/zmj/leetcode/LongestCommonPrefix_014.java) | 字符串 |
