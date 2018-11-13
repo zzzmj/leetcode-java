@@ -7,14 +7,14 @@ package indi.zmj.leetcode;
  * @create 2018/9/19
  */
 public class SearchInsertPosition_035 {
-  public int searchInsert(int[] nums, int target) {
-    int len = nums.length;
-    for (int i = 0; i < len; i++) {
-      if (nums[i] == target || nums[i] > target) {
-        return i;
-      }
+    public int searchInsert(int[] nums, int target) {
+        int len = nums.length;
+        for (int i = 0; i < len; i++) {
+            if (nums[i] == target || nums[i] > target) {
+                return i;
+            }
+        }
+        return len;
     }
-    return len;
-  }
-  
+
 }

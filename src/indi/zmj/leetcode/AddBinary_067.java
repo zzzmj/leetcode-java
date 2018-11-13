@@ -1,5 +1,7 @@
 package indi.zmj.leetcode;
 
+
+
 /**
  * @author zmj
  * @Description 二进制数相加，返回他们的和（二进制表示）
@@ -17,6 +19,8 @@ public class AddBinary_067 {
    * 这里我用字符转整数的方法有很多种~~
    */
   public String addBinary(String a, String b) {
+
+    
     StringBuilder num = new StringBuilder();
     int lenA = a.length(), lenB = b.length();
     int carry = 0, s, i = 1;

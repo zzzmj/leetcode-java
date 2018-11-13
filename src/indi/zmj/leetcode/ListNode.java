@@ -6,9 +6,10 @@ package indi.zmj.leetcode;
  * @create 2018/9/25
  */
 public class ListNode {
-  int val;
-  ListNode next;
-  ListNode(int x) {
-    val = x;
-  }
+    int val;
+    ListNode next;
+
+    ListNode(int x) {
+        val = x;
+    }
 }
