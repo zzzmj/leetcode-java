@@ -5,14 +5,29 @@ package medium._215;
  * @create 2019/1/5
  */
 public class Solution {
-    public void swap(int[] nums, int i, int j) {
+    private void swap(int[] nums, int i, int j) {
         int t = nums[i];
         nums[i] = nums[j];
         nums[j] = t;
     }
 
-    public int partition(int[] nums, int left, int right) {
-        int pivot = nums[right];
+    private int medianOf3(int[] nums, int left, int right) {
+        int mid = left + (right - left) / 2;
+        if (nums[left] > nums[mid]) {
+            swap(nums, left, mid);
+        }
+        if (nums[left] > nums[right]) {
+            swap(nums, left, right);
+        }
+        if (nums[mid] > nums[right]) {
+            swap(nums, mid, right);
+        }
+        return mid;
+    }
+
+    private int partition(int[] nums, int left, int right, int mid) {
+        int pivot = nums[mid];
+        swap(nums, mid, right);
         int i = left;
         for (int j = left; j < right; j++) {
             if (nums[j] < pivot) {
@@ -24,33 +39,24 @@ public class Solution {
         return i;
     }
 
-    public void quickSort(int[] nums, int left, int right, int k) {
-        if (left < right) {
-            int partitionIndex = partition(nums, left, right);
+    private int quickSort(int[] nums, int left, int right, int k) {
+        while (true) {
+            if (left == right) {
+                return nums[left];
+            }
+            int mid = medianOf3(nums, left, right);
+            int partitionIndex = partition(nums, left, right, mid);
             if (partitionIndex == k) {
-                return ;
+                return nums[k];
             } else if (partitionIndex < k) {
-                quickSort(nums, partitionIndex + 1, right, k);
+                left = partitionIndex + 1;
             } else {
-                quickSort(nums, left, partitionIndex - 1, k);
+                right = partitionIndex - 1;
             }
         }
     }
 
     public int findKthLargest(int[] nums, int k) {
-        if (nums == null || nums.length <= 0) {
-            return 0;
-        } else if (nums.length == 1) {
-            return nums[0];
-        }
-        quickSort(nums, 0, nums.length - 1, nums.length - k);
-        return nums[nums.length - k];
+        return quickSort(nums, 0, nums.length - 1, nums.length - k);
     }
-
-    public static void main(String[] args) {
-        Solution s = new Solution();
-        int [] arr = {3,2,3,1,2,4,5,5,6};
-        System.out.println(s.findKthLargest(arr, 4));
-    }
-
 }
