@@ -31,6 +31,7 @@
 | 038  | [Count and Say](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_038/Solution.java) |    Easy    | 数学 |
 | 053  | [Maximum Subarray](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_053/Solution.java) |    Easy    |  动态规划 |
 | 058  | [Length of Last Word](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_058/Solution.java) |    Easy    |  字符串 |
+| 062  | [Unique Paths](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_062/Solution.js) |    Medium    |  动态规划 |
 | 066  | [Plus One](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_066/Solution.java) |    Easy    | 数学 |
 | 067  | [Add Binary](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_067/Solution.java) |    Easy    |  字符串 |
 | 069  | [Sqrt(x)](https://github.com/zzzmj/leetcode-java/blob/master/src/easy/_069/Solution.java) |    Easy    |  数学，二分查找 |
